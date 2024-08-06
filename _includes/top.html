@@ -33,16 +33,6 @@
 
     gtag('config', '{{ site.google_analytics }}');
   </script>
-  <script>
-    var trackOutboundLink = function(url) {
-      gtag('event', 'click', {
-        'event_category': 'outbound',
-        'event_label': url,
-        'transport_type': 'beacon',
-        'event_callback': function(){document.location = url;}
-      });
-    }
-  </script>
   <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
   {% seo title=false %}
 </head>
@@ -53,19 +43,17 @@
     <div id="header">
       <div id="branding">
         <h1 id="site-title">
-          <a href="/" title="Sourabh Bajaj" rel="Home">Sourabh Bajaj</a>
+          <a href="/" title="Juliette Audema" rel="Home">Juliette Audema</a>
         </h1>
       </div>
 
       <div id="menu-primary" class="menu-container">
         <div class="menu">
           <ul id="menu-primary-items">
-            <li class="menu-item home"><a class="spec" href="/">Home</a></li>
-            <li class="menu-item projects"><a class="spec" href="https://uplimit.com">Uplimit</a></li>
-            <li class="menu-item projects"><a class="spec" href="/projects">Projects</a></li>
+            <li class="menu-item home"><a class="spec" href="/">Accueil</a></li>
+            <li class="menu-item projects"><a class="spec" href="/projects">Projets</a></li>
             <li class="menu-item talks"><a class="spec" href="/talks">Talks</a></li>
             <li class="menu-item blog"><a class="spec" href="/blog/">Blog</a></li>
-            <!-- <li class="menu-item github"><a class="spec" href="https://github.com/sb2nov/" target="_blank">Github</a></li> -->
             <li class="menu-item rss">
               <div class="rss-button">
                 <a href="/atom.xml" target="_blank">

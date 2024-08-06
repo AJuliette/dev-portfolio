@@ -16,18 +16,16 @@ defaults:
     values:
       layout: post
       permalink: /blog/:year/:month/:day/:title/
-google_analytics: "UA-40495390-2"
-title: Sourabh
-description: Sourabh's portfolio and writings on machine learning, data science and distributed systems.
-url: https://sourabhbajaj.com
-author: Sourabh Bajaj
+title: Juliette Audema
+description: Portfolio de Juliette Audema contenant écrits, talks et projets.
+url: https://ajuliettedev.com
+author: Juliette Audema
 twitter:
-  username: sourabhbajaj90
+  username: ajuliettedev
 logo: images/contents/NN.png
 social:
-  name: Sourabh
+  name: Juliette Audema
   links:
-    - https://twitter.com/sourabhbajaj90
-    - https://www.linkedin.com/in/sbajaj9
-    - https://github.com/sb2nov
-    - https://speakerdeck.com/sb2nov/
+    - https://x.com/ajuliettedev
+    - https://www.linkedin.com/in/juliette-audema/
+    - https://github.com/ajuliette

@@ -15,6 +15,13 @@
 
 /* Normalize
 -------------------------------------------------------------- */
+* {
+  &::before,
+  &::after {
+    box-sizing: border-box;
+  }
+}
+
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
 audio, canvas, video {
   display: inline-block;
@@ -28,14 +35,14 @@ html {
   height: 100%;
   font-size: 16px;  /* 16px */
   overflow-y: scroll;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #444444;
+  font-family: 'Nunito', sans-serif;
+  line-height: 1.6;
 }
 body {
-  margin: 0;
-  font: 0.9em/1.692307em 'Bitter', Georgia, 'Times New Roman', Times, serif;
-  color: #555;
-  padding: 0;
+  margin: 1rem 0;
   height: 100%;
 }
 #container {

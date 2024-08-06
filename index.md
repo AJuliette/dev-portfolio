@@ -6,15 +6,15 @@ layout: default
 <div class="hfeed">
   <hr />
   <div class="hentry post no-border">
-    <a href="https://uplimit.com/" onclick="trackOutboundLink('https://uplimit.com/');"><img src="/images/contents/icon.png" alt="Uplimit" class="archive-thumbnail home-thumbnail" width="160" height="200" /></a>
+    <img src="/images/contents/pp.jpeg" alt="Uplimit" class="archive-thumbnail home-thumbnail" width="160" height="200" />
 
     <div class="entry-summary">
-      <p>I am Sourabh, co-founder and CTO of <a href="https://uplimit.com/" onclick="trackOutboundLink('https://uplimit.com/');"><strong>Uplimit</strong></a>. Uplimit is a live online upskilling platform to help businesses and individuals acquire the cutting-edge technical skills necessary to remain competitive in today's market. The Uplimit platform features live online courses from top industry experts, a rich community of peers, and leverages technology to deliver high-quality education with real career outcomes at scale.</p>
-
-      <p>In my past life; I lead the personalization and data infrastructure teams at <a href="https://neeva.com" onclick="trackOutboundLink('https://neeva.com');">Neeva.</a> Before that at <a href="https://google.com" onclick="trackOutboundLink('https://google.com');">Google Brain</a>, I worked on <a href="https://www.tensorflow.org/" onclick="trackOutboundLink('https://www.tensorflow.org/');" target="_blank">Tensorflow</a>. Prior to Google; I was at <a href="https://coursera.org" onclick="trackOutboundLink('https://coursera.org');">Coursera</a> working on data infrastructure and data products. I'm also a Georgia Tech and BITS Pilani alumni.</p>
+      <p>Je m'appelle Juliette, je suis <strong>développeuse logiciel</strong> spécialisée en Ruby on Rails.</p>
+      <p>Originellement formée à l'IEP de Grenoble, j'ai travaillé deux ans et demi en tant que chargée de mission dans le secteur culturel. J'ai réalisé ma reconversion dans la tech à l'automne 2018 et printemps 2019 grâce au bootcamp <a href="https://www.thehackingproject.org/">The Hacking Project</a>. J’ai alors découvert une nouvelle vocation: le code, les nombreuses possibilités du secteur et les communautés de dév.</p>
+      <p> On peut en lire plus sur ma reconversion et les conseils que je donne dans une <a href="https://firesidegroup.co/interview-de-juliette-audema-ruby-on-rails-developer-et-animatrice-de-women-on-rails/">interview pour Fireside</a> ou le <a href="https://theallyance.one/blog/theallyance-reconversion-webinaire-9cmjfr">compte-rendu d'un webinaire sur la reconversion de The Allyance</a>.</p>
+      <p>J'ai eu des expériences très différentes en tant que développeuse: en start-up, agence et scale-up. J'ai travaillé sur des apps Ruby on Rails en full-stack, des apps Sinatra, du nextJS et en micro-services en TypeScript. J'ai maintenu du code et apporté des nouvelles features sur des monolithes Ruby-on-Rails tout comme dans une architecture orientée événements utilisant les services AWS.</p>
+      <p>Je me forme continuellement car je sais que peut-être que l'outil que je vais utiliser plus tard dans ma carrière se crée aujourd'hui. Pour ça, j’ai repris l’animation du meet-up Women On Rails, avec lequel nous publions une <a href="https://womenonrails.substack.com"> newsletter mensuelle d’actualités web</a>. Je partage également mes découvertes et apprentissages lors de talks, workshops ou dans des articles de blog. Vous pouvez les découvrir en visitant ce blog !</p>
     </div>
     <hr />
-    <p>Learn more about Uplimit from this post on <a href="https://techcrunch.com/2022/09/28/uplimits-approach-to-up-skilling-involves-fewer-courses-and-more-access/" onclick="trackOutboundLink('https://techcrunch.com/2022/09/28/uplimits-approach-to-up-skilling-involves-fewer-courses-and-more-access/');">Tech Crunch</a> and the Uplimit <a href="https://uplimit.com/blog/announcing-uplimit-fundraise-from-greylock-gsv-ventures-and-cowboy-ventures" onclick="trackOutboundLink('https://uplimit.com/blog/announcing-uplimit-fundraise-from-greylock-gsv-ventures-and-cowboy-ventures');">blog</a>.</p>
-
   </div>
 </div>
