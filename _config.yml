@@ -3,7 +3,7 @@ permalink: none
 kramdown:
   input: GFM
   hard_wrap: false
-repository: sb2nov/sb2nov.github.io
+repository: AJuliette/dev-portfolio
 plugins:
   - jemoji
   - jekyll-sitemap
@@ -18,7 +18,7 @@ defaults:
       permalink: /blog/:year/:month/:day/:title/
 title: Juliette Audema
 description: Portfolio de Juliette Audema contenant écrits, talks et projets.
-url: https://ajuliettedev.com
+url: https://juliette-audema-portfolio.netlify.app/
 author: Juliette Audema
 twitter:
   username: ajuliettedev
