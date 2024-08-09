@@ -22,3 +22,28 @@ Réalisé avec le générateur de site statique Docusaurus (Jamstack), pages sou
       </ul>
     </div>
   </div>
+
+  <!-- Frontend Mentor -->
+  <div class="hentry post project-batch-title">
+    <h2>Frontend Mentor</h2>
+  </div>
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+  <div class="hentry post">
+    <div class="entry-summary">
+      <p>Les challenges Frontend Mentor aident à améliorer les compétences de code en front en construisant des projets réalistes</p>
+      <ul class="project-list">
+      <li>
+        <strong>QR Code</strong>: <a href="https://phenomenal-kashata-55eb27.netlify.app/">Démonstration en ligne</a>, <a href="https://github.com/AJuliette/qr-code">Repository</a>
+        <br>
+        Screenshot:
+        <br>
+        <img
+          src="/images/frontend_mentor/qr_code.png"
+          alt="QR Code"
+          width="650" height="433"
+        />
+      </li>
+      </ul>
+    </div>
+  </div>
