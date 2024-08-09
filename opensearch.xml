@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
 	xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <Description>Search Sourabh's website</Description>
-  <SearchForm>https://sourabhbajaj.com/</SearchForm>
-  <moz:SearchForm>https://sourabhbajaj.com/</moz:SearchForm>
+  <Description>Chercher dans le site de Juliette Audema</Description>
+  <SearchForm>https://juliette-audema-portfolio.netlify.app</SearchForm>
+  <moz:SearchForm>https://juliette-audema-portfolio.netlify.app</moz:SearchForm>
   <InputEncoding>UTF-8</InputEncoding>
   <Language>en</Language>
 
-  <ShortName>sourabhbajaj.com</ShortName>
-  <Url rel="self" type="application/opensearchdescription+xml" href="https://sourabhbajaj.com/opensearch.xml" />
+  <ShortName>juliette-audema-portfolio.netlify.app</ShortName>
+  <Url rel="self" type="application/opensearchdescription+xml" href="https://juliette-audema-portfolio.netlify.app/opensearch.xml" />
   <Url method="get" type="text/html" 
-      template="https://www.google.com/search?q={searchTerms}&amp;sitesearch=sourabhbajaj.com" />
-  <Image width="16" height="16">https://sourabhbajaj.com/images/contents/fav.png</Image>
+      template="https://www.google.com/search?q={searchTerms}&amp;sitesearch=juliette-audema-portfolio.netlify.app" />
+  <Image width="16" height="16">https://juliette-audema-portfolio.netlify.app/images/contents/fav.png</Image>
 </OpenSearchDescription>

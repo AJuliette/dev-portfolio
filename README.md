@@ -1,6 +1,6 @@
 ## Juliette Audema
 
-This is the repository for my [blog](https://sourabhbajaj.com). I sometimes write about things I find interesting.
+This is the repository for my [blog](https://juliette-audema-portfolio.netlify.app/). I sometimes write about things I find interesting.
 
 ### Usage
 
@@ -14,5 +14,7 @@ For building the site, use the command `./run_with_docker.sh server`.
 
 ### The end
 
-Like it? [Tell me](http://twitter.com/sourabhbajaj90).<br/>
+Theme made by [Sourabh Bajaj](https://sourabhbajaj.com/)
+
+Like it? [Tell him](http://twitter.com/sourabhbajaj90).<br/>
 Question? [Use GitHub Issues](https://github.com/sb2nov/sb2nov.github.io/issues).
