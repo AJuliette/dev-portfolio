@@ -6,149 +6,79 @@ layout: default
 
 <div class="hfeed">
 
+  <!-- 2023 -->
+  <div class="hentry post project-batch-title">
+    <h2>2023</h2>
+  </div>
+
+  <!-- Open Source Startup Podcast -->
+  <div class="hentry post project-batch-title">
+    <h4>Peut-on se passer d'une app back ?</h4>
+    <div class="entry-summary">
+      <p>
+        <a class="talk-title" href="https://www.youtube.com/watch?v=Fk6j20uxsQA&pp=ygUPanVsaWV0dGUgYXVkZW1h" target="_blank">
+        Voxxed Days Luxembourg - Juin 2023
+        </a>: 
+        Avec l'API economy on voit se multiplier les services accessibles avec un simple endpoint: les bases de données, les outils de communication, de paiement, d'authentification... La nouvelle ruée vers l'or est même le développement en API first. Qu'importe les end users maintenant, on vend des services accessibles en post. En parallèle de ça on voit se développer par les cloud providers des step functions, qui permettent un enchaînement procédural d'étapes ou bien encore les fonctions serverless. Cette conférence sera donc un crash test: peut-on construire une app comme un e-commerce sans back mais juste en plug and play ?
+      </p>
+    </div>
+  </div>
+  
+  <!-- Devoxx France -->
+  <div class="hentry post project-batch-title">
+    <h4>Comment être condamné par la CNIL</h4>
+    <div class="entry-summary">
+      <p>
+        <a class="talk-title" href="https://www.youtube.com/watch?v=0YUIAG46HXI&t=1s&pp=ygUPanVsaWV0dGUgYXVkZW1h" target="_blank">
+        Devoxx France - Avril 2023</a>,
+        <a class="talk-title" href="https://www.youtube.com/watch?v=beIf5b7I8Jg&pp=ygUPanVsaWV0dGUgYXVkZW1h" target="_blank">MiXiT - Avril 2023
+        </a>: La CNIL a sorti un guide RGPD (Règlement Général sur la Protection des Données) pour l'équipe de développement, où elle donne des conseils aux développeuses et développeurs afin d'être en conformité avec le RGPD, notamment dans le développement. Dans ce talk, nous plongerons dans les bonnes pratiques recommandées par la CNIL et nous verrons aussi différents cas de sanctions données par la CNIL par des entreprises qui ont, elles, été condamnées.</p>
+    </div>
+  </div>
+
+  <!-- Des espaces sûrs pour les développeuses -->
+  <div class="hentry post project-batch-title">
+    <h4>Des espaces sûrs pour les développeuses</h4>
+    <div class="entry-summary">
+      <p><a class="talk-title" href="https://www.youtube.com/watch?v=ZFc4IaGDvsQ&t=3s" target="_blank">Paris.rb - Mars 2023</a>: La tech est connue pour son nombre peu élevé de femmes et son sexisme. Ici, je montre les différents exemples de violences que peuvent connaître les femmes au travail et je donne des ressources si jamais on se retrouve dans cette situation.</p>
+    </div>
+  </div>
+
+    <!-- Kubernetes community Days France -->
+  <div class="hentry post project-batch-title">
+    <h4>Table Ronde Communautaire - Dev/Ops/DevOps : Quand s’arrête l’un ? Quand commence l’autre ?</h4>
+    <div class="entry-summary">
+      <p>
+        <a class="talk-title" href="https://www.youtube.com/watch?v=aHMyT70ykTk" target="_blank">
+        Kubernetes community Days France - Mars 2023</a>
+      </p>
+    </div>
+  </div>
+
   <!-- 2022 -->
   <div class="hentry post project-batch-title">
     <h2>2022</h2>
   </div>
 
-  <!-- Open Source Startup Podcast -->
+  <!-- Serverless Day Paris -->
   <div class="hentry post project-batch-title">
-    <h4>Learn Open Source Tools & Frameworks on Uplimit</h4>
+    <h4>Du continent aux archipels: un périple en Serverless</h4>
     <div class="entry-summary">
-      <p><a class="talk-title" href="https://anchor.fm/ossstartuppodcast/episodes/E54-Learn-Open-Source-Tools--Frameworks-on-Uplimit-e1oig3g" target="_blank">Open Source Startup Podcast, Sept 2022</a>: Talk about building engaging learning experiences to grow open source adoption and creating true evangelists.</p>
-    </div>
-  </div>
-  
-  <!-- Summer Community Days -->
-  <div class="hentry post project-batch-title">
-    <h4>Technical and data training that feels like the real world</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="https://www.youtube.com/watch?v=V1bLXu1P388" target="_blank">Summer Community Days, July 2022</a>: Talk about designing engaging learning experiences for adults that feel high touch and closer to real jobs.</p>
+      <p>
+      <a class="talk-title" href="https://youtu.be/9Y5pNsBcZ2Y" target="_blank">Serverless Day Paris, Juin 2022</a>:
+      En rejoignant une scale-up™ qui utilise TypeScript et du serverless, je me suis dit qu'après un bootcamp en Ruby On Rails et une expérience sur des sites Rails, j'allais "juste" avoir à apprendre à écrire mon code en TypeScript dans une fonction qui serait propulsée dans le cloud. Mais que nenni, c'est bien un changement total de perspective sur le métier de dév que j'ai traversé.</p>
+
+      <p>Avec le serverless s'accompagnait une nouvelle façon d'organiser le code et les équipes en microservices, une nouvelle architecture (hexagonale), l'amélioration en équipe du déploiement continu et du monitoring, des batailles avec les configurations d'AWS... Dans ce talk, je dresse la carte de toutes les compétences nécessaires pour naviguer dans ces nouvelles eaux, en me basant sur mon expérience chez Aircall.</p>
     </div>
   </div>
 
-  <!-- KD Nuggets -->
+  <!-- Paris.rb -->
   <div class="hentry post project-batch-title">
-    <h4>Every Engineer Should and Can Learn Machine Learning</h4>
+    <h4>Lesson Learned from DB issues</h4>
     <div class="entry-summary">
-      <p><a class="talk-title" href="https://www.kdnuggets.com/2022/06/uplimit-every-engineer-learn-machine-learning.html" target="_blank">KD Nuggets, June 2022</a>: Interview about learning ML, breaking into the field and how to move from a software engineer to a ML engineer.</p>
+      <p>
+      <a class="talk-title" href="https://www.youtube.com/watch?v=OS7lsnN6j8U" target="_blank">Paris.rb, Mai 2022</a>:
+      Différents retours d'expériences sur Cognito ou DynamoDB chez Aircall
+      </p>
     </div>
   </div>
-
-  <!-- 2020 -->
-  <div class="hentry post project-batch-title">
-    <h2>2020</h2>
-  </div>
-
-  <!-- Global AI Conference, October 2020 -->
-  <div class="hentry post project-batch-title">
-    <h4>Keynote Panel: State of AI in the Enterprise</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="http://www.globalbigdataconference.com/boston/global-artificial-intelligence-virtual-conference/schedule-123.html" target="_blank">Global AI Conference, October 2020</a>: Panel discussion on challenges in building, deploying and productionizing models in an enterprise setting.</p>
-    </div>
-  </div>
-
-  <!-- 2018 -->
-  <div class="hentry post project-batch-title">
-    <h2>2018</h2>
-  </div>
-
-  <!-- Tensorflow Roadshow, Bengaluru, October 2018 -->
-  <div class="hentry post project-batch-title">
-    <h4>High-Performance TensorFlow for Accelerators</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="https://events.withgoogle.com/tfr-blr/" target="_blank">Tensorflow Roadshow, Bengaluru, October 2018</a>: Talk about the Tensor Processing Units (TPUs). Covers the internals of the hardware design of TPUs, how to run your Tensorflow models on accelerators and performance tuning for your models when using Accelerators.</p>
-    </div>
-  </div>
-
-  <!-- PyBay, August 2018 -->
-  <div class="hentry post project-batch-title">
-    <h4>Museum of Machine Arts</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="https://pybay.com/" target="_blank">PyBay, August 2018</a>: Talk about recent developments in Deep Learning generated/assisted art. Covering recent papers about GANs, Neural Style transfer, Pix2Pixel etc. (<a href="https://speakerdeck.com/sb2nov/museum-of-machine-arts" target="_blank">Slides</a>)</p>
-      <p>Presented similar talk on machine generated art at: <a class="talk-title" href="http://www.globalbigdataconference.com/santa-clara/6th-annual-global-big-data-conference/schedule-105.html" target="_blank">Global Big Data Conference, August 2018</a>: (<a href="https://speakerdeck.com/sb2nov/museum-of-machine-arts" target="_blank">Slides</a>)</p>
-    </div>
-  </div>
-
-  <!-- Jeju Deep Learning Camp, July 2018 -->
-  <div class="hentry post project-batch-title">
-    <h4>Jeju Deep Learning Camp</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="http://jeju.dlcamp.org/2018/" target="_blank">Jeju Deep Learning Camp, July 2018</a>: One of the mentors for the deep learning summer camp in Jeju, Korea. Mentored students on projects across variety of domains such as Reinforcement Learning, Recommendation Systems, Computer Vision and Natural Language Processing.</p>
-    </div>
-  </div>
-
-  <!-- Global Artificial Intelligence Conference, April 2018 -->
-  <div class="hentry post project-batch-title">
-    <h4>New APIs in Tensorflow</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="http://www.globalbigdataconference.com/seattle/global-artificial-intelligence-conference/event-103.html" target="_blank">Global Artificial Intelligence Conference, April 2018</a>: Talk about the Tensorflow Eager execution and the Dataset APIs. Covers on how to change your code from using graph mode to eager execution and in the second half covered the datasets api to write performant input pipelines. (<a href="https://speakerdeck.com/sb2nov/new-apis-in-tensorflow" target="_blank">Slides</a>)</p>
-    </div>
-  </div>
-
-  <!-- 2017 -->
-  <div class="hentry post project-batch-title">
-    <h2>2017</h2>
-  </div>
-
-  <!-- PyData, July 2017 -->
-  <div class="hentry post project-batch-title">
-    <h4>Unified Batch and Stream processing with Apache Beam</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="https://pydata.org/seattle2017/" target="_blank">PyData, July 2017</a>: Apache Beam is a parallel programming model that allows one to implement batch and streaming data processing jobs that can run on a variety of execution engines like Apache Spark and Google Cloud Dataflow. (<a href="https://speakerdeck.com/sb2nov/big-data-processing-with-apache-beam" target="_blank">Slides</a> | <a href="https://www.youtube.com/watch?v=-6xpDRiurmA" target="_blank">Video</a>)</p>
-      <p>Presented similar talks on Apache Beam at:<ul>
-        <!-- PyBay, Aug 2017 -->
-        <li><a class="talk-title" href="https://pybay.com/" target="_blank">PyBay, August 2017</a>: (<a href="https://speakerdeck.com/sb2nov/unified-batch-and-stream-processing-with-apache-beam" target="_blank">Slides</a> | <a href="https://www.youtube.com/watch?v=z2nEOPz30so" target="_blank">Video</a>)</li>
-        <!-- CloudDataNextCon, Sep 2017 -->
-        <li><a class="talk-title" href="http://cdsea17.xnextcon.com/" target="_blank">Cloud+Data Nextcon, September 2017</a>: (<a href="https://speakerdeck.com/sb2nov/unified-processing-with-apache-beam" target="_blank">Slides</a>)</li>
-        <!-- Florida Pycon, Oct 2017 -->
-        <li><a class="talk-title" href="http://flpy.org/" target="_blank">Florida Pycon, October 2017</a>: (<a href="https://speakerdeck.com/sb2nov/unified-processing-with-apache-beam" target="_blank">Slides</a>)</li>
-        <!-- All things Python, Oct 2017 -->
-        <li><a class="talk-title" href="https://www.meetup.com/All-Things-Python/events/243725413/" target="_blank">All things Python, October 2017</a>: (<a href="https://speakerdeck.com/sb2nov/unified-processing-with-apache-beam" target="_blank">Slides</a>)</li>
-      </ul></p>
-    </div>
-  </div>
-
-  <!-- Metis, August 2017 -->
-  <div class="hentry post project-batch-title">
-    <h4>Intro to Recommendation Systems</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="https://www.thisismetis.com/" target="_blank">Metis, Auguest 2017</a>: Guest lecture on building real world recommendation systems. Talk goes over building multiple iterations of the system in increasing complexity.</p>
-    </div>
-  </div>
-
-  <!-- 2016 -->
-  <div class="hentry post project-batch-title">
-    <h2>2016</h2>
-  </div>
-
-  <!-- Cassandra Meetup, July 2016 -->
-  <div class="hentry post project-batch-title">
-    <h4>Cassandra batch loading for building Data Products</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="http://www.meetup.com/DataStax-Cassandra-South-Bay-Users/events/232405279/" target="_blank">Cassandra Meetup, July 2016</a>: Talk about Nostos (batch loading service at Coursera) and some of its use cases in data products such as recommendations, search and prediction models. Covers some of the design choice and tradeoffs made in building Nostos and explains how the system evolved over time. (<a href="https://speakerdeck.com/sb2nov/cassandra-batch-loading-for-data-products" target="_blank">Slides</a> | <a href="https://www.youtube.com/watch?v=SQBGPX_eYZ0" target="_blank">Video</a>)</p>
-    </div>
-  </div>
-
-  <!-- Big Data Meetup, May 2016 -->
-  <div class="hentry post project-batch-title">
-    <h4>Extending our workflow service for use cases beyond ETL</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="http://www.meetup.com/San-Francisco-AWS-Big-Data-Meetup/events/229638199/" target="_blank">Big Data Meetup, May 2016</a>: Talk about Dataduct the workflow / ETL service at Coursera and how it is now being used for other use cases beyond just ETL such as machine learning, predictions and bulk loading into cassandra. (<a href="https://speakerdeck.com/sb2nov/to-and-fro-from-amazon-redshift" target="_blank">Slides</a>)</p>
-    </div>
-  </div>
-
-  <!-- 2015 -->
-  <div class="hentry post project-batch-title">
-    <h2>2015</h2>
-  </div>
-
-  <!-- AWS Re:Invent, Oct 2015 -->
-  <div class="hentry post project-batch-title">
-    <h4>Large-Scale ETL Data Flows with AWS Data Pipeline & Dataduct</h4>
-    <div class="entry-summary">
-      <p><a class="talk-title" href="https://reinvent.awsevents.com/" target="_blank">AWS Re:Invent, Oct 2015</a>: Dive deep into AWS Data Pipeline and Dataduct, an open source framework built at Coursera to manage pipelines and create reusable patterns to expedite developer productivity. (<a href="https://speakerdeck.com/sb2nov/large-scale-etl-data-flows-with-data-pipeline-and-dataduct" target="_blank">Slides</a> | <a href="https://www.youtube.com/watch?v=NLCLoJnhDOM" target="_blank">Video</a>)</p>
-    </div>
-  </div>
-
-</div>
