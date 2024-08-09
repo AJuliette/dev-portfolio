@@ -16,12 +16,12 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url}}" />
   {% if page.title %}<meta property="og:title" content="{{ page.title }}" />{% endif %}
-  {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt }}" />{% endif %}
+  {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt }}{% endif %}
   <meta property="og:image" content="{% if page.preview_image %}{{ page.preview_image }}{% else %}https://juliette-audema-portfolio.netlify.app/images/contents/pp.jpeg{% endif %}" />
 
   <meta name="twitter:site" value="@ajuliettedev" />
   {% if page.title %}<meta property="twitter:title" content="{{ page.title }}" />{% endif %}
-  {% if page.excerpt %}<meta property="twitter:description" content="{{ page.excerpt }}" />{% endif %}
+  {% if page.excerpt %}<meta property="twitter:description" content="{{ page.excerpt }}{% endif %}
   <meta property="twitter:image" content="{% if page.preview_image %}{{ page.preview_image }}{% else %}https://juliette-audema-portfolio.netlify.app/images/contents/pp.jpeg{% endif %}"/>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -33,7 +33,6 @@
 
     gtag('config', '{{ site.google_analytics }}');
   </script>
-  <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
   {% seo title=false %}
 </head>
 
