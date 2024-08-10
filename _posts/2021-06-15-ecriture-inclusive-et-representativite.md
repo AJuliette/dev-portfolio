@@ -2,7 +2,7 @@
 layout: post
 title: Écriture inclusive et représentativité
 category: Carrière
-excerpt:
+excerpt: Alors, avant la levée de boucliers, l’écriture inclusive ça peut être aussi simple qu’écrire “Bonjour à toutes et à tous” ou “les développeuses et développeurs”.
 redirect_from: /2021/06/15/ecriture-inclusive-et-representativite/
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Bilan de 6 mois de newsletter: learning in public"
 category: Carrière
-excerpt:
+excerpt: L’idée de base c’était juste de partager quelques lectures tech que j’avais trouvées enrichissante
 redirect_from: /2021/04/12/bilan-6-mois-newsletter
 ---
 
