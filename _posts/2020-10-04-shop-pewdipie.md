@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Du rétro en boutique !
+title: Du rétro en boutique
 category: UI/UX
 excerpt:
 redirect_from: /2020/10/01/shop-pewdipie/
