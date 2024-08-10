@@ -46,3 +46,35 @@ Réalisé avec le générateur de site statique Docusaurus (Jamstack), pages sou
       </ul>
     </div>
   </div>
+
+<!-- Paris Fresh -->
+  <div class="hentry post project-batch-title">
+    <h2>Paris Fresh</h2>
+  </div>
+
+  <div class="hentry post">
+    <div class="entry-summary">
+      <p>Les lieux où se rafraîchir à Paris par arrondissement.
+      Ce site regroupe des données de <a href="https://opendata.paris.fr/pages/home/">Paris Open Data</a>.</p>
+      <p>Les données utilisées:</p>
+      <ul>
+        <li>
+          <a href="https://opendata.paris.fr/explore/dataset/ilots-de-fraicheur-equipements-activites">Ilots de fraîcheur - Equipements / Activités</a>: les îlots de fraîcheur à Paris sont des lieux d’accueil, de halte et/ou de repos, accessibles au grand public et repérés comme source de rafraîchissement par rapport à leur environnement proche en période chaude ou caniculaire.
+        </li>
+        <li>
+          <a href="https://opendata.paris.fr/explore/dataset/ilots-de-fraicheur-espaces-verts-frais">Ilots de fraîcheur - Espaces verts frais</a>: des espaces verts « frais » de la Ville de Paris ainsi que certains parcs et jardins de l’Etat classés en fonction de leur part de végétation haute (ombrage attendu) et de leurs ouvertures nocturnes.
+        </li>
+        <li>
+          <a href="https://opendata.paris.fr/explore/dataset/fontaines-a-boire">Fontaines à boire</a>: : Il y a 1 200 points d’eau dans les rues, les parcs et les bois de Paris. Par praticité, nous avons sélectionné ceux du jeu de données qui avaient une adresse et pas juste des coordonnées latitude/longitude.
+        </li>
+      </ul>
+
+      <img
+          src="/images/contents/paris_map.png"
+          alt="Carte de paris par arrondissement"
+          height="300"
+        />
+    </div>
+  </div>
+
+</div>
