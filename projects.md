@@ -77,4 +77,27 @@ Réalisé avec le générateur de site statique Docusaurus (Jamstack), pages sou
     </div>
   </div>
 
+    <!-- De Tout Repo -->
+  <div class="hentry post project-batch-title">
+    <h2>De Tout Repo</h2>
+  </div>
+
+  <div class="hentry post">
+    <div class="entry-summary">
+      <p>Émissions sur Twitch où je testais et explorais des projets en open-source</p>
+        <a href="https://www.youtube.com/playlist?list=PL_XTxtDSAgHYliSsCZPhG0idkVW-yCw8_">Les deux premiers épisodes, "Pimper son terminal" et "Doom"</a> ont été enregistrés sur YouTube.
+        <br/>
+        <img
+          src="/images/contents/de_tout_repo_2.png"
+          alt="De Tout Repo 2"
+          width="300"
+        />
+        <img
+          src="/images/contents/de_tout_repo_3.jpeg"
+          alt="De Tout Repo 3"
+          width="300"
+        />
+    </div>
+  </div>
+
 </div>
