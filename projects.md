@@ -100,6 +100,7 @@ Réalisé avec le générateur de site statique Docusaurus (Jamstack), pages sou
       <p>Émissions sur Twitch où je testais et explorais des projets en open-source</p>
         <a href="https://www.youtube.com/playlist?list=PL_XTxtDSAgHYliSsCZPhG0idkVW-yCw8_">Les deux premiers épisodes, "Pimper son terminal" et "Doom"</a> ont été enregistrés sur YouTube.
         <br/>
+        <p>Les enregistrements des épisodes 2 et 3 ont été perdus T-T</p>
         <img
           src="/images/contents/de_tout_repo_2.png"
           alt="De Tout Repo 2"
