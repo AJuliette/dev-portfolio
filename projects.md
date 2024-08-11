@@ -35,13 +35,26 @@ Réalisé avec le générateur de site statique Docusaurus (Jamstack), pages sou
       <li>
         <strong>QR Code</strong>: <a href="https://phenomenal-kashata-55eb27.netlify.app/">Démonstration en ligne</a>, <a href="https://github.com/AJuliette/qr-code">Repository</a>
         <br>
-        Screenshot:
+        <details>
+        <summary>Screenshot</summary>
+          <img
+            src="/images/frontend_mentor/qr_code.png"
+            alt="QR Code"
+            width="650" height="433"
+          />
+        </details>
+      </li>
+      <li>
+        <strong>Blog Preview Card</strong>: <a href="https://deft-marshmallow-bfd21e.netlify.app/">Démonstration en ligne</a>, <a href="https://github.com/AJuliette/frontend-mentor-blog-preview-card">Repository</a>
         <br>
-        <img
-          src="/images/frontend_mentor/qr_code.png"
-          alt="QR Code"
-          width="650" height="433"
-        />
+        <details>
+        <summary>Screenshot</summary>
+          <img
+            src="/images/frontend_mentor/blog_preview_card.png"
+            alt="QR Code"
+            width="650" height="433"
+          />
+        </details>
       </li>
       </ul>
     </div>
