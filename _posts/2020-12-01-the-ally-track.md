@@ -14,7 +14,7 @@ La BBC vient de sortir un outil pour se rendre compte des avantages dont on bén
 
 Ce que j'ai trouvé très bien fait c'est qu'après cet auto-test ils donnent des exemples de situations communes en entreprise où ces biais peuvent agir et discriminer: lors d'un entretien d'embauche, d'une réunion, d'un verre après le bureau... et donnent des pistes d'action / de réflexion.
 
-Ça peut être des situations toutes simples: par exemple en reprenant l’animation de hashtag#WomenOnRails, j’ai organisé des meet-ups le soir après le travail, parce que les meet-ups tech sont en majorité sous ce format là. 
+Ça peut être des situations toutes simples: par exemple en reprenant l’animation de WomenOnRails, j’ai organisé des meet-ups le soir après le travail, parce que les meet-ups tech sont en majorité sous ce format là.
 
 Puis une développeuse m’a dit qu’elle ne pouvait pas venir à un meet-up car elle devait s’occuper de ses enfants. 
 Du coup actuellement je teste un format de meet-up en ligne sur la pause déjeuner.
