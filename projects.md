@@ -67,7 +67,7 @@ Réalisé avec le générateur de site statique Docusaurus (Jamstack), pages sou
 
   <div class="hentry post">
     <div class="entry-summary">
-      <p>Les lieux où se rafraîchir à Paris par arrondissement.
+      <p>Réalisé en 2024. Les lieux où se rafraîchir à Paris par arrondissement.
       Ce site regroupe des données de <a href="https://opendata.paris.fr/pages/home/">Paris Open Data</a>.</p>
       <p>Les données utilisées:</p>
       <ul>
@@ -90,14 +90,26 @@ Réalisé avec le générateur de site statique Docusaurus (Jamstack), pages sou
     </div>
   </div>
 
-    <!-- De Tout Repo -->
+ <!-- Vlogs KubeCon + CloudNativeCon Europe 2023 -->
+  <div class="hentry post project-batch-title">
+    <h2>Vlogs KubeCon + CloudNativeCon Europe 2023</h2>
+  </div>
+
+  <div class="hentry post">
+    <div class="entry-summary">
+      <p>Compte-rendus journaliers de la conférence.</p>
+        <a href="https://www.youtube.com/playlist?list=PL_XTxtDSAgHacptmIfPs78n2HWWfB9zMx">Les cinq épisodes</a>.
+    </div>
+  </div>
+
+  <!-- De Tout Repo -->
   <div class="hentry post project-batch-title">
     <h2>De Tout Repo</h2>
   </div>
 
   <div class="hentry post">
     <div class="entry-summary">
-      <p>Émissions sur Twitch où je testais et explorais des projets en open-source</p>
+      <p>Émissions sur Twitch réalisées en 2022 où je testais et explorais des projets en open-source</p>
         <a href="https://www.youtube.com/playlist?list=PL_XTxtDSAgHYliSsCZPhG0idkVW-yCw8_">Les deux premiers épisodes, "Pimper son terminal" et "Doom"</a> ont été enregistrés sur YouTube.
         <br/>
         <p>Les enregistrements des épisodes 2 et 3 ont été perdus T-T</p>
